@@ -9,6 +9,7 @@ public class San3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+int i;
 		HashMap<Integer,String> num = new HashMap<Integer,String>();
 		LinkedHashMap<Integer,String> num1 = new LinkedHashMap<Integer,String>();
 		TreeMap<Integer,String> num2 = new TreeMap<Integer,String>();
