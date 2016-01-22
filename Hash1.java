@@ -8,6 +8,7 @@ public class Hash1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		HashMap<Integer,String> num = new HashMap<Integer,String>();
+ int i;
 		num.put(1,"sa");
 		num.put(3,"sga");
 		num.put(8,"sah");
